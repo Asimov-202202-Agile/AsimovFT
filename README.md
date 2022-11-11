@@ -3,11 +3,16 @@
 ## Description
 This repository contains the frontend for the asimov project
 
-## Team CyberSoft 👨‍💻
-* Denis Omar Alvarado Irigoin - U20171D006
+## Team TotemCrew 👨‍💻
 * Julio Alexander Salazar Zapata - U202017572
-* Rodrigo Andre Sabino Valer - U201811286
 * Yordy Rolando Mochcco Atauje - U201923959
+* Erikc Anderson Cortez Benites - U201810133
+* Julio Enrique Barrios Aedo - U201912137
+* Daniel De la Cruz - U201920156
+* José Cayllahua Gutierrez - U202019558
+* Jesús Emerson Pacheco Alanya - U201923998
+* Samuel Antonio Maucaille Apolinario - U201615989
+* Alexia Damaris Silva Guevara - U201714092
 
 ## Project setup
 
