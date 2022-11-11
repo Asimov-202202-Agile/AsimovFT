@@ -13,6 +13,8 @@ This repository contains the frontend for the asimov project
 * Jesús Emerson Pacheco Alanya - U201923998
 * Samuel Antonio Maucaille Apolinario - U201615989
 * Alexia Damaris Silva Guevara - U201714092
+## Documentation
+* version 1.0.0 - 10/11/2022
 
 ## Project setup
 
