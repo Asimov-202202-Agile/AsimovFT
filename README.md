@@ -16,6 +16,7 @@ This repository contains the frontend for the asimov project
 ## Documentation
 * version 1.0.0 - 10/11/2022
 * version 1.1.0 - 15/11/2022
+* version 1.2.0 - 15/11/2022
 
 ## Project setup
 
