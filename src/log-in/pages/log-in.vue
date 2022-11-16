@@ -10,7 +10,9 @@
 
             <v-card-text class="pb-0">
               <v-form ref="form" v-model="valid" lazy-validation>
-                <v-text-field
+                <v-text-field class="my-3"
+                    dense
+                    hide-details="auto"
                     v-model="email"
                     :rules="emailRules"
                     label="E-mail"
@@ -26,7 +28,9 @@
                     </v-tooltip>
                   </template>
                 </v-text-field>
-                <v-text-field
+                <v-text-field class="mt-3 mb-4"
+                    dense
+                    hide-details="auto"
                     v-model="password"
                     :rules="passwordRules"
                     label="Password"
