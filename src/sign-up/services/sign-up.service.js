@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_URL = 'https://localhost:5001/auth/';
+const API_URL = 'https://app-service-asimov-202202-agile.azurewebsites.net/auth/';
 import http from '@/core/http-common'
 
 class AuthService {
