@@ -15,6 +15,7 @@ This repository contains the frontend for the asimov project
 * Alexia Damaris Silva Guevara - U201714092
 ## Documentation
 * version 1.0.0 - 10/11/2022
+* version 1.1.0 - 15/11/2022
 
 ## Project setup
 
@@ -34,4 +35,4 @@ $ json-server --watch db.json --routes routes.json
 $ npm run serve
 ```
 
-See [Frontend deployed](https://pry-asimov-cybersoft-21.web.app/).
+See [Frontend deployed](https://asimov-agile-202202.web.app/).
